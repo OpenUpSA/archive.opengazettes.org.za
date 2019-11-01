@@ -1,3 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: /archive/ZA/2008/government-gazette-ZA-vol-518-no-31341-dated-2008-08-22.pdf
+
 Sitemap: https://archive.opengazettes.org.za/sitemap.txt
